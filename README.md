@@ -1,5 +1,5 @@
 # Solar Power Generation with OLS Regression
-**Author** : Mucong (Collin) Li
+**Author** : Mucong (Collin) Li       
 **Time Completed**: January 2020 
 
 ## Technical

@@ -1,6 +1,6 @@
 # Solar Power Generation with OLS Regression
 **Author** : Mucong (Collin) Li       
-**Time Completed**: January 2020 
+**Time Completed**: April 2020 
 
 ## Technical
 **Method**: Ordinary Least Squares (OLS) Regression    
